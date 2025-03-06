@@ -1,0 +1,1 @@
+## This notebook provides insights into the 2024 U.S. imports and exports with Canada, sourced directly from the USA Trade Online website. It offers valuable data for investors and startups, highlighting the products most impacted by the new tariffs.
